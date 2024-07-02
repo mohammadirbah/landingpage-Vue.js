@@ -161,13 +161,13 @@
               <strong>CV Portfolio</strong>
             </h5>
             <p class="card-text">
-              I created a landing page using React.js and Bootstrap with a small
-              business object engaged in car rental services called "Javas Rent
-              Car". You can click the link below to see the landing page project
-              that I created.
+              I created a landing page to showcase my portfolio and resume using
+              Vue.js and Bootstrap. You can click the link below to see the
+              portfolio landing page that I created.
+              <br />
             </p>
             <button class="btn" style="background-color: #999558">
-              <a href="https://todo-list-app-omega-sooty.vercel.app/"
+              <a href="https://mohammad-irbah.vercel.app/"
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 640 512"
