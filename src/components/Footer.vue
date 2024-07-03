@@ -30,7 +30,7 @@
           data-mdb-ripple-init
           class="btn btn-link btn-floating btn-lg m-1"
           style="color: #2f2d17"
-          href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfTTcMdcXfNdTbBJSPgXtkQhhkjKZNzbhSgWrwfpgdnsBbsMhNJFLWQDjGKDmphTpKDFL"
+          href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=mohammadirbah@gmail.com"
           role="button"
           data-mdb-ripple-color="dark"
         >
