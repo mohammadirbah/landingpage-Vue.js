@@ -112,5 +112,11 @@ a {
   text-decoration: none;
 }
 
-
+@media (max-width: 600px) {
+  div.portfolio {
+    width: 100%;
+    margin-bottom: 30px;
+    background-color: whitesmoke;
+  }
+}
 </style>
