@@ -2,8 +2,6 @@
   <div class="portfolio container small-card" id="portfolio">
     <h1 class="text-center p-5" style="color: #57542f">
       <strong>Portfolio</strong>
-      <br>
-      <strong>M Irbah Miftakhul Huda</strong>
     </h1>
     <div class="row row-cols-0 row-cols-md-2 g-4">
       <!-- Fiverr -->
